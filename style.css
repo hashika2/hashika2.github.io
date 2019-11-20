@@ -13,6 +13,10 @@ body{
     
    
 }
+#body{
+    float: right;
+    margin-right: 10%;
+}
 .rain:before{
     content: '';
     position: absolute;
