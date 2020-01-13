@@ -23,10 +23,6 @@ const SocialMedia=()=>{
             <i class="instagram icon"></i>
             Instagram
             </button>
-            <button class="ui youtube button">
-            <i class="youtube icon"></i>
-            YouTube
-            </button>
         </div>
     )
 }
