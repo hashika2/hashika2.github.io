@@ -10,7 +10,7 @@ const App=()=>{
                <div className="column">
                     <Home/>
                </div>
-               <div className=" middle aligned column" >
+               <div className="middle aligned column" >
                     <SocialMedia/>
                     content
                </div>

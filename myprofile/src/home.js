@@ -1,5 +1,6 @@
 import React from 'react';
 import "./style.css";
+import Photo from './images/profile.jpg';
 
 const Home=()=>{
     return(
