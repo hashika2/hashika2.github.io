@@ -13,7 +13,10 @@ function visiblePage(){
 <tr style="text-align: center"><td>bootstrap</td></tr>
 <tr><th style="background-color:darkgrey;color:black">User Management System</th></tr>
 <tr style="text-align: center"><td>php</td></tr>
-
+<tr><th style="background-color:darkgrey;color:black">OCR APP</th></tr>
+<tr style="text-align: center"><td>React</td></tr>
+<tr style="text-align: center"><td>Nodejs</td></tr>
+<tr style="text-align: center"><td>bootstrap</td></tr>
 
 </table>`
 }
