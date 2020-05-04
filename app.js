@@ -17,8 +17,14 @@ function visiblePage(){
 <tr style="text-align: center"><td>React</td></tr>
 <tr style="text-align: center"><td>Nodejs</td></tr>
 <tr style="text-align: center"><td>bootstrap</td></tr>
+<tr><th style="background-color:darkgrey;color:black">Chat App</th></tr>
+<tr style="text-align: center"><td>React</td></tr>
+<tr style="text-align: center"><td>Nodejs</td></tr>
+<tr style="text-align: center"><td>socket Io</td></tr>
+<tr style="text-align: center"><td>bootstrap</td></tr>
 
-</table>`
+`
+
 }
 
 function setContact(){
@@ -36,8 +42,6 @@ function setContact(){
         <tr><td>0774164979</td></tr>
         <tr><td>0770231782</td></tr>
     </table>
-    
-        
    
     
 </div>
@@ -77,5 +81,7 @@ const Index=()=>{
                       <li><img src="images/java-logo.png" width="80px" height="80px"></li>
                   </ul>
               </div> 
+              <div class="links">
+            </div> 
     `
 }

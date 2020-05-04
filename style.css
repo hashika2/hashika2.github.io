@@ -1,3 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+  @media only screen and (max-width:800px) {
+    /* For tablets: */
+    .content {
+      width: 80%;
+      padding: 0;
+    }
+    .navbar {
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    .content, .navbar, .logo .links .about .details {
+      width: 50%;
+    }
+  }
 body{
     padding: 0%;
     margin: 0%;
@@ -344,7 +363,7 @@ td{
 }
 .content{
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 68%;
     transform: translate(-50%,-50%);
     margin: 0%;
@@ -363,7 +382,7 @@ td{
 }
 .logo{
     position: absolute;
-    top: 65%;
+    top: 75%;
     left: 70%;
     transform: translate(-50%,-50%);
     margin: 0%;
@@ -376,8 +395,8 @@ td{
 
 .links{
     position: absolute;
-    top:85%;
-    left: 70%;
+    top:95%;
+    left: 25%;
     transform: translate(-50%,-50%);
     margin: 0%;
     padding: 0%;
